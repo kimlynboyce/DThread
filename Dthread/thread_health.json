@@ -1,0 +1,13 @@
+{
+  "water": 0,
+  "caffeine": 1,
+  "caffeine_time": "2026-05-05 18:09",
+  "sleep_hrs": 1.0,
+  "mood": 5,
+  "heart_rate": 70,
+  "steps": 0,
+  "weight": 0.0,
+  "temp": 36.6,
+  "last_break": "2026-05-05 18:11",
+  "hydration_goal": 8
+}

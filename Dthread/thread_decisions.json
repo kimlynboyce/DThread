@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Cookies and cache for lunch ",
+    "pros": "Make girlfriend happy ",
+    "cons": "Cost money",
+    "risks": "U might not be able to talk to other uses",
+    "gut": 5,
+    "recommendation": "THINK MORE",
+    "urgency": "Low \u2014 I have weeks",
+    "date": "2026-05-05 19:19"
+  },
+  {
+    "title": "Save money",
+    "pros": "To have emergency money",
+    "cons": "To buy food",
+    "risks": "Living paychenk to paycheck",
+    "risk_lvl": "Critical",
+    "gut": 5,
+    "recommendation": "AVOID",
+    "urgency": "High \u2014 I need to decide now",
+    "date": "2026-05-05 21:55"
+  }
+]
